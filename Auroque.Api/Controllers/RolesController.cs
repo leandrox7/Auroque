@@ -12,7 +12,6 @@ namespace Auroque.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [EnableCors("MyCorsPolicy")]
 
     public class RolesController : ControllerBase
     {
