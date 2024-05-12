@@ -1,26 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/leandro/Projects/Auroque/Auroque.Domain/Auroque.Domain.csproj": {}
+    "Y:\\Auroque\\Auroque.Domain\\Auroque.Domain.csproj": {}
   },
   "projects": {
-    "/Users/leandro/Projects/Auroque/Auroque.Domain/Auroque.Domain.csproj": {
+    "Y:\\Auroque\\Auroque.Domain\\Auroque.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/leandro/Projects/Auroque/Auroque.Domain/Auroque.Domain.csproj",
+        "projectUniqueName": "Y:\\Auroque\\Auroque.Domain\\Auroque.Domain.csproj",
         "projectName": "Auroque.Domain",
-        "projectPath": "/Users/leandro/Projects/Auroque/Auroque.Domain/Auroque.Domain.csproj",
-        "packagesPath": "/Users/leandro/.nuget/packages/",
-        "outputPath": "/Users/leandro/Projects/Auroque/Auroque.Domain/obj/",
+        "projectPath": "Y:\\Auroque\\Auroque.Domain\\Auroque.Domain.csproj",
+        "packagesPath": "C:\\Users\\leandro\\.nuget\\packages\\",
+        "outputPath": "Y:\\Auroque\\Auroque.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/leandro/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -33,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -76,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
