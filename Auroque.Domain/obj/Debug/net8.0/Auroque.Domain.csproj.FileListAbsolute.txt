@@ -1,0 +1,11 @@
+/Users/leandro/Projects/Auroque/Auroque.Domain/bin/Debug/net8.0/Auroque.Domain.deps.json
+/Users/leandro/Projects/Auroque/Auroque.Domain/bin/Debug/net8.0/Auroque.Domain.dll
+/Users/leandro/Projects/Auroque/Auroque.Domain/bin/Debug/net8.0/Auroque.Domain.pdb
+/Users/leandro/Projects/Auroque/Auroque.Domain/obj/Debug/net8.0/Auroque.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leandro/Projects/Auroque/Auroque.Domain/obj/Debug/net8.0/Auroque.Domain.AssemblyInfoInputs.cache
+/Users/leandro/Projects/Auroque/Auroque.Domain/obj/Debug/net8.0/Auroque.Domain.AssemblyInfo.cs
+/Users/leandro/Projects/Auroque/Auroque.Domain/obj/Debug/net8.0/Auroque.Domain.csproj.CoreCompileInputs.cache
+/Users/leandro/Projects/Auroque/Auroque.Domain/obj/Debug/net8.0/Auroque.Domain.dll
+/Users/leandro/Projects/Auroque/Auroque.Domain/obj/Debug/net8.0/refint/Auroque.Domain.dll
+/Users/leandro/Projects/Auroque/Auroque.Domain/obj/Debug/net8.0/Auroque.Domain.pdb
+/Users/leandro/Projects/Auroque/Auroque.Domain/obj/Debug/net8.0/ref/Auroque.Domain.dll

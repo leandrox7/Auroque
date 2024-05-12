@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Auroque.Api/1.0.0": {
+        "dependencies": {
+          "Auroque.Application": "1.0.0"
+        },
+        "runtime": {
+          "Auroque.Api.dll": {}
+        }
+      },
+      "Auroque.Application/1.0.0": {
+        "dependencies": {
+          "Auroque.Domain": "1.0.0",
+          "Auroque.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "Auroque.Application.dll": {}
+        }
+      },
+      "Auroque.Domain/1.0.0": {
+        "runtime": {
+          "Auroque.Domain.dll": {}
+        }
+      },
+      "Auroque.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Auroque.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Auroque.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Auroque.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Auroque.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Auroque.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Auroque.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

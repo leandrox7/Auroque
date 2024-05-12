@@ -1,0 +1,17 @@
+/Users/leandro/Projects/Auroque/Auroque.Application/bin/Debug/net8.0/Auroque.Application.deps.json
+/Users/leandro/Projects/Auroque/Auroque.Application/bin/Debug/net8.0/Auroque.Application.dll
+/Users/leandro/Projects/Auroque/Auroque.Application/bin/Debug/net8.0/Auroque.Application.pdb
+/Users/leandro/Projects/Auroque/Auroque.Application/bin/Debug/net8.0/Auroque.Domain.dll
+/Users/leandro/Projects/Auroque/Auroque.Application/bin/Debug/net8.0/Auroque.Infrastructure.dll
+/Users/leandro/Projects/Auroque/Auroque.Application/bin/Debug/net8.0/Auroque.Domain.pdb
+/Users/leandro/Projects/Auroque/Auroque.Application/bin/Debug/net8.0/Auroque.Infrastructure.pdb
+/Users/leandro/Projects/Auroque/Auroque.Application/obj/Debug/net8.0/Auroque.Application.csproj.AssemblyReference.cache
+/Users/leandro/Projects/Auroque/Auroque.Application/obj/Debug/net8.0/Auroque.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leandro/Projects/Auroque/Auroque.Application/obj/Debug/net8.0/Auroque.Application.AssemblyInfoInputs.cache
+/Users/leandro/Projects/Auroque/Auroque.Application/obj/Debug/net8.0/Auroque.Application.AssemblyInfo.cs
+/Users/leandro/Projects/Auroque/Auroque.Application/obj/Debug/net8.0/Auroque.Application.csproj.CoreCompileInputs.cache
+/Users/leandro/Projects/Auroque/Auroque.Application/obj/Debug/net8.0/Auroque.Application.csproj.CopyComplete
+/Users/leandro/Projects/Auroque/Auroque.Application/obj/Debug/net8.0/Auroque.Application.dll
+/Users/leandro/Projects/Auroque/Auroque.Application/obj/Debug/net8.0/refint/Auroque.Application.dll
+/Users/leandro/Projects/Auroque/Auroque.Application/obj/Debug/net8.0/Auroque.Application.pdb
+/Users/leandro/Projects/Auroque/Auroque.Application/obj/Debug/net8.0/ref/Auroque.Application.dll

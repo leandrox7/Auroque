@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Auroque.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Auroque.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Auroque.Infrastructure.dll": {}
+        }
+      },
+      "Auroque.Domain/1.0.0": {
+        "runtime": {
+          "Auroque.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Auroque.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Auroque.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
